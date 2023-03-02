@@ -119,7 +119,7 @@ form label {
     border-radius: 5px;
 }
 
-input[type=text], input[type=number], select, input[type=date], input[type=date], input[type=datetime], input[type=email], input[type=month], input[type=password], input[type=range], input[type=tel], input[type=time], input[type=week] {
+input[type=text] input[type=number] select input[type=date] input[type=date] input[type=datetime] input[type=email] input[type=month] input[type=password] input[type=range] input[type=tel] input[type=time] input[type=week] {
     width: 100%;
     padding: 12px 20px;
     font-size: 1em;
